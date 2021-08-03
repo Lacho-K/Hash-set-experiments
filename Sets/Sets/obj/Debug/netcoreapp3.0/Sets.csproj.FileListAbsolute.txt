@@ -1,0 +1,11 @@
+C:\Users\kolev\source\repos\Sets\Sets\bin\Debug\netcoreapp3.0\Sets.exe
+C:\Users\kolev\source\repos\Sets\Sets\bin\Debug\netcoreapp3.0\Sets.deps.json
+C:\Users\kolev\source\repos\Sets\Sets\bin\Debug\netcoreapp3.0\Sets.runtimeconfig.json
+C:\Users\kolev\source\repos\Sets\Sets\bin\Debug\netcoreapp3.0\Sets.runtimeconfig.dev.json
+C:\Users\kolev\source\repos\Sets\Sets\bin\Debug\netcoreapp3.0\Sets.dll
+C:\Users\kolev\source\repos\Sets\Sets\bin\Debug\netcoreapp3.0\Sets.pdb
+C:\Users\kolev\source\repos\Sets\Sets\obj\Debug\netcoreapp3.0\Sets.csprojAssemblyReference.cache
+C:\Users\kolev\source\repos\Sets\Sets\obj\Debug\netcoreapp3.0\Sets.AssemblyInfoInputs.cache
+C:\Users\kolev\source\repos\Sets\Sets\obj\Debug\netcoreapp3.0\Sets.AssemblyInfo.cs
+C:\Users\kolev\source\repos\Sets\Sets\obj\Debug\netcoreapp3.0\Sets.dll
+C:\Users\kolev\source\repos\Sets\Sets\obj\Debug\netcoreapp3.0\Sets.pdb
